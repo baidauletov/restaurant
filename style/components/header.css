@@ -1,0 +1,16 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	padding: 8px 16px;
+}
+
+.header__item {
+	display: inline-block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: #000;
+}
+
+.header__item:hover {
+	background-color: #ccc
+}

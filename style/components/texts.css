@@ -1,0 +1,55 @@
+.text-header {
+	font-family: "Times New Roman", Georgia, Serif;
+  font-size: 15px;
+  line-height: 1.5;
+  font-style: italic;
+  letter-spacing: 4px;
+}
+
+.text-header_title {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 36px;
+	letter-spacing: 5px;
+	font-style: italic;
+	line-height: 1.5;
+}
+
+.text-about {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 18px;
+	text-align: justify;
+	line-height: 1.5;
+}
+
+.text-about_spacing {
+	letter-spacing: 5px;
+	text-align: center;
+}
+
+.text-about__gray {
+	color: #757575;	
+}
+
+.text-menu_spacing {
+	letter-spacing: 5px;
+	text-align: left;
+}
+
+.text-menu__price {
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 15px;
+	color: #757575;	
+}
+
+.text-contact {
+	font-family: "Times New Roman", Georgia, Serif;
+  font-size: 15px;
+  line-height: 1.5;
+  font-style: italic;
+}
+
+.text-contact_blue {
+	font-style: normal;
+	color: #607d8b;
+	font-weight: bold;
+}

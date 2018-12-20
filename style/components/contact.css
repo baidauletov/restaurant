@@ -1,0 +1,44 @@
+.contact {
+	display: flex;
+	width: 70%;
+	margin: 64px auto;
+	flex-direction: column;
+}
+
+.contact__info {
+	display: flex;
+	flex-direction: column;
+}
+
+.contact__title {
+	display: block;
+	margin: 15px 0;
+}
+
+.contact__text {
+	display: block;
+	margin: 15px 0;
+}
+
+.contact__form {
+	display: flex;
+	flex-direction: column;
+}
+
+.form__input {
+	padding: 16px;
+	border-bottom: 1px solid #ccc;
+	margin-top: 15px;
+}
+
+.form__submit {
+	display: inline-block;
+	padding: 16px 8px;
+	width: 250px;
+	margin-top: 30px;
+	background-color: #f1f1f1;
+}
+
+.form__submit:hover {
+	background-color: #cccccc
+}

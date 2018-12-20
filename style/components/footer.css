@@ -1,0 +1,21 @@
+.footer {
+	min-height: 100px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #f1f1f1;
+}
+
+.footer__item {
+	display: inline-block;
+	padding: 8px 16px;
+	text-decoration: none;
+	color: #000;
+	width: 300px;
+}
+
+.footer__item:hover {
+	text-decoration: underline;
+}

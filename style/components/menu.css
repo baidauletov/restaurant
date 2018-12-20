@@ -1,0 +1,44 @@
+.menu {
+	margin: 64px auto;
+	display: flex;
+	width: 70%;
+	justify-content: space-between;
+	padding-bottom: 64px;
+	margin-bottom: 0;
+	border-bottom: 1px solid #eee;
+}
+
+.menu__text {
+	width: 47%;
+}
+
+.menu__title {
+	text-align: center;
+	display: block;
+	margin: 10px 0;
+	margin-bottom: 35px;
+}
+
+.menu-item {
+	margin: 10px 0;
+}
+
+.menu-item__title {
+	margin: 10px 0;	
+}
+
+.menu-item__text {
+	margin: 10px 0;
+	margin-bottom: 55px;		
+}
+
+.menu__view {
+	width: 47%;
+}
+
+.menu__image {
+	display: inline-block;
+	width: 100%;
+	object-fit: cover;
+	opacity: 0.7;
+}
